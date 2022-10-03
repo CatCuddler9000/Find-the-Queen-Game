@@ -1,2 +1,1 @@
-"# Find-the-Queen-Game" 
-"# Find-the-Queen-Game" 
+Java Game for Find the Queen used in final project for intro java course
